@@ -1,0 +1,26 @@
+html body {
+    background-color: rgb(206, 223, 59);
+  }
+  .btn-hover:hover {
+    background-color: #c58f32 !important;
+    box-shadow: 0 0 10px 3px rgba(177, 162, 27, 0.8);
+  }
+  .button:hover {
+    box-shadow: 0 0 10px 3px rgba(94, 14, 85, 0.8);
+  }
+  .card {
+    background-color: rgb(252, 245, 245) !important;
+  }
+  .glow-text {
+    text-shadow: 0 0 px #050404, 0 0 10px #1660f5, 0 0 15px #06c96b;
+  }
+  
+  .container {
+    background-color: rgb(34, 130, 219);
+    color: rgb(3, 3, 3);
+    padding: 20px;
+    border-radius: 100px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-bottom: 90px;
+        text-align: center;
+}
